@@ -1,7 +1,7 @@
 ---
 title: "Towards LLM-Assisted Vulnerability Detection and Repair for Open-Source 5G UE Implementations"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/futureg25-repair5gvul
 excerpt: 
 date: 2025-02-24
