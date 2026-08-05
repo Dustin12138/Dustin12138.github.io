@@ -1,7 +1,7 @@
 ---
 title: "Bridging Both Worlds in Semantics and Time: Domain Knowledge Based Analysis and Correlation of Industrial Process Attacks"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/arxiv23-icsattacks
 excerpt: ''
 date: 2023-12-03
