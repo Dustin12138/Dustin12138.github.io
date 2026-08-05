@@ -3,8 +3,8 @@ title: "Semantics Over Syntax: Uncovering Pre-Authentication 5G Baseband Vulnera
 collection: publications
 category: manuscripts
 permalink: /publication/usenix26-enhanced5ghoul
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+excerpt: 
+date: 2026-04-05
 venue: 'Journal 1'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_huang-qiqing.pdf'
