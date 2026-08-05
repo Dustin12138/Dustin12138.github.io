@@ -4,7 +4,7 @@ collection: teaching
 type: 
 permalink: /teaching/gta
 venue: "Texas A&M University, Department of Computer Science"
-date: 
+date: 2024-08-25
 location: "College Station, Texas"
 ---
 
