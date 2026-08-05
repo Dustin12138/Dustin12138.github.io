@@ -9,13 +9,10 @@ location: "College Station, Texas"
 ---
 
 
-Fall 2024 - CSCE 477/703, CYBR 603 Cybersecurity Risk
-======
+Fall 2024 - CSCE 477/703, CYBR 603 Cybersecurity Risk, Instructor: [Dr. Paula deWitte](https://engineering.tamu.edu/cse/profiles/dewitte-paula.html)
 
-Spring 2025 - CSCE 713 Software Security
-======
+Spring 2025 - CSCE 713 Software Security, Instructor: [Dr. Chia-Che Tsai](https://www.chiachetsai.com/)
 
-Fall 2025 - CSCE 465 Network Security
-======
+Fall 2025 - CSCE 465 Network Security, Instructor: [Dr. Nitesh Saxena](https://nsaxena.engr.tamu.edu/)
 
-# Spring 2026 - CSCE 477 Cybersecurity Risk
+Spring 2026 - CSCE 477 Cybersecurity Risk, Instructor: [Dr. Shreyas Kumar](https://engineering.tamu.edu/cse/profiles/kumar-shreyas.html)
