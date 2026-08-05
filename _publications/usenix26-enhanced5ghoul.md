@@ -1,7 +1,7 @@
 ---
 title: "Semantics Over Syntax: Uncovering Pre-Authentication 5G Baseband Vulnerabilities"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/usenix26-enhanced5ghoul
 excerpt: 
 date: 2026-04-05
