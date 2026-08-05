@@ -1,3 +1,10 @@
+---
+layout: archive
+title: 
+permalink: /contact/
+author_profile: true
+---
+
 ## Contact Information
 
 **Personal Email:** [wdguo0424@gmail.com](mailto:wdguo0424@gmail.com)
