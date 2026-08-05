@@ -1,13 +1,14 @@
 ---
-title: "Graduate Assistant - Teaching[Fall 2024, Spring 2025, Fall 2025, Spring 2026]"
+title: "Teaching Experience"
 collection: teaching
-type: 
+type: TA
 permalink: /teaching/gta
 venue: "Texas A&M University, Department of Computer Science"
 date: 2024-08-25
 location: "College Station, Texas"
 ---
 
+### Graduate Assistant - Teaching [Fall 2024, Spring 2025, Fall 2025, Spring 2026]
 
 Fall 2024 - CSCE 477/703, CYBR 603 Cybersecurity Risk, Instructor: [Dr. Paula deWitte](https://engineering.tamu.edu/cse/profiles/dewitte-paula.html)
 
