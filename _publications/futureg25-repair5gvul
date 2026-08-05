@@ -11,5 +11,3 @@ paperurl: 'https://par.nsf.gov/servlets/purl/10634672'
 bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:QHjyj9kxaKMJ:scholar.google.com/&output=citation&scisdr=CslCYE61EPqQvKFX088:AM1tuoMAAAAAanNRy89cq2R5c4nbPu-Dypzd4s0&scisig=AM1tuoMAAAAAanNRy72WJsIycomJXnmyzu9BSXY&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1'
 citation: 'Patir, Rupam, Qiqing Huang, Keyan Guo, Wanda Guo, Guofei Gu, Haipeng Cai, and Hongxin Hu. &quot; Towards LLM-Assisted Vulnerability Detection and Repair for Open-Source 5G UE Implementations.&quot; (2025).'
 ---
-
-# The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
